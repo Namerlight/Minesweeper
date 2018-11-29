@@ -1,0 +1,21 @@
+﻿  minesweeper_main.cpp
+e:\code\visual studio\project3\project3\minesweeper_header.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\code\visual studio\project3\project3\minesweeper_header.h(4): error C2008: ';': unexpected in macro definition
+e:\code\visual studio\project3\project3\minesweeper_main.cpp(5): error C2143: syntax error: missing ';' before 'using'
+e:\code\visual studio\project3\project3\minesweeper_header.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  e:\code\visual studio\project3\project3\minesweeper_main.cpp(5): note: see reference to class template instantiation 'minesweeper_board<itemtype>' being compiled
+e:\code\visual studio\project3\project3\minesweeper_header.h(15): warning C4183: 'generate_real_board': missing return type; assumed to be a member function returning 'int'
+e:\code\visual studio\project3\project3\minesweeper_header.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\code\visual studio\project3\project3\minesweeper_header.h(16): warning C4183: 'delete_real_board': missing return type; assumed to be a member function returning 'int'
+e:\code\visual studio\project3\project3\minesweeper_header.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\code\visual studio\project3\project3\minesweeper_header.h(17): warning C4183: 'generate_virtual_board': missing return type; assumed to be a member function returning 'int'
+e:\code\visual studio\project3\project3\minesweeper_header.h(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\code\visual studio\project3\project3\minesweeper_header.h(18): warning C4183: 'delete_virtual_board': missing return type; assumed to be a member function returning 'int'
+e:\code\visual studio\project3\project3\minesweeper_header.h(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\code\visual studio\project3\project3\minesweeper_header.h(19): warning C4183: 'get_player_move': missing return type; assumed to be a member function returning 'int'
+e:\code\visual studio\project3\project3\minesweeper_header.h(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\code\visual studio\project3\project3\minesweeper_header.h(20): warning C4183: 'check_for_mines': missing return type; assumed to be a member function returning 'int'
+e:\code\visual studio\project3\project3\minesweeper_header.h(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\code\visual studio\project3\project3\minesweeper_header.h(21): warning C4183: 'player_plant_flag': missing return type; assumed to be a member function returning 'int'
+e:\code\visual studio\project3\project3\minesweeper_header.h(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\code\visual studio\project3\project3\minesweeper_header.h(22): warning C4183: 'print_current_virtual': missing return type; assumed to be a member function returning 'int'
